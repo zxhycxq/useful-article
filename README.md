@@ -18,6 +18,10 @@ book
 
 eloquentjavascript http://eloquentjavascript.net/
 
+##git
+
+Git远程操作详解 - 阮一峰的网络日志  http://www.ruanyifeng.com/blog/2014/06/git_remote.html
+
 其他
 
 WAMPServer集成环境安装 http://www.imooc.com/learn/54
