@@ -26,4 +26,9 @@ Git远程操作详解 - 阮一峰的网络日志  http://www.ruanyifeng.com/blog
 
 WAMPServer集成环境安装 http://www.imooc.com/learn/54
 
+##tool
+
+###webstorm
+webstorm下设置sass - prince.shi - 博客园  http://www.cnblogs.com/cshi/p/5622650.html
+
 
