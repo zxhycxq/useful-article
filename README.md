@@ -31,4 +31,7 @@ WAMPServer集成环境安装 http://www.imooc.com/learn/54
 ###webstorm
 webstorm下设置sass - prince.shi - 博客园  http://www.cnblogs.com/cshi/p/5622650.html
 
+Introduction | webstorm 入门指南  http://book.apebook.org/minghe/webstorm/index.html
+
+
 
